@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on my app Szuminka (with noise app)
+- 🌱 I’m currently deep diving into Swift and I'm look towards SwiftUI
+- 👯 I’m looking for junior iOS job!
+- 📫 How to reach me: Email - tpiatek.arch@icloud.com | Twitter - @arch_tpiatek
+
 <!--
 **tpiatek-code/tpiatek-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
